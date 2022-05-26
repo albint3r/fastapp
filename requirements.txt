@@ -1,4 +1,4 @@
-python == 3.9.5
+python_version  == 3.9.5
 alembic==1.7.4
 anyio==3.4.0
 argon2-cffi==20.1.0
